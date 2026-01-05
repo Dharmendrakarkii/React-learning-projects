@@ -22,10 +22,10 @@ const chat = () => {
     
       </div>
     
-    </div>
-    </div>
-  )
-}
+//     </div>
+//     </div>
+//   )
+// }
 
 
-export default chat;
+// export default chat;
